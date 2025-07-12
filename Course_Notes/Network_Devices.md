@@ -2,11 +2,11 @@
 
 ## What is a network?
 
-A computer network is a digital telecommunications network allows NODES to share RESOURCES.
+A computer network is a digital telecommunications network **allows NODES to share RESOURCES**.
 
-A CLIENT is a device that accesses a service made available by a SERVER.
-
-A SERVER is a device that provides functions or services for CLIENTS.
+A CLIENT is a device that **accesses a service made available by a SERVER**.
+-
+A SERVER is a device that **provides functions or services for CLIENTS**.
 
 - Note : The same device can be a CLIENT in some situations and a SERVER in other situations. Ex: A Peer-to-Peer network.
 
